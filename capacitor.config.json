@@ -1,0 +1,8 @@
+{
+  "appId": "com.bhimmondal.telecast",
+  "appName": "Telecast",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
